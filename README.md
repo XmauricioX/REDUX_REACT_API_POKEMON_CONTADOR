@@ -2,10 +2,15 @@
 ## Screenshots del proyecto
 
 ## busqueda incorrecta
+
 <img src="https://github.com/XmauricioX/REDUX_REACT_API_POKEMON_CONTADOR/blob/main/src/img/1.png" alt='screenShot'>
+
 ## busqueda correcta
+
 <img src="https://github.com/XmauricioX/REDUX_REACT_API_POKEMON_CONTADOR/blob/main/src/img/2.png" alt='screenShot'>
+
 ## contador decreciendo de 30
+
 <img src="https://github.com/XmauricioX/REDUX_REACT_API_POKEMON_CONTADOR/blob/main/src/img/4.png" alt='screenShot'>
 
 # Getting Started with Create React App
