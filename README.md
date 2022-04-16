@@ -1,3 +1,10 @@
+# PROYECTO DE REACT CON REDUX - CONSULTA A LA API DE POKEMON CON AXIOS Y UN CONTADOR 
+## Screenshots del proyecto
+
+<img src="https://github.com/XmauricioX/REDUX_REACT_API_POKEMON_CONTADOR/blob/main/src/img/1.png" alt='screenShot'>
+<img src="https://github.com/XmauricioX/REDUX_REACT_API_POKEMON_CONTADOR/blob/main/src/img/2.png" alt='screenShot'>
+<img src="https://github.com/XmauricioX/REDUX_REACT_API_POKEMON_CONTADOR/blob/main/src/img/4.png" alt='screenShot'>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
